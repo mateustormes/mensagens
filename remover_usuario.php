@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "aplicacao_mensagens";
+$servername = "br892.hostgator.com.br";
+$username = "engine66_mateus";
+$password = "Mub62021*";
+$dbname = "engine66_aplicacao_mensagens";
 
 // Criar conexão
 $conn = new mysqli($servername, $username, $password, $dbname);
